@@ -1,0 +1,7 @@
+name=input('write your name :')
+print(name +  ' how are you?' )
+print(4+6)
+x=input('X deyerini daxil et:')
+y=input('Y deyerini daxil et:')
+z=int(x)+int(y)
+print(f"{x}+{y}={z}")
